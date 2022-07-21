@@ -1,4 +1,4 @@
-# image-classification
+# Image Classification Project
 
 The project applied transfer learning technique to perform image classification. \
 The MobileNetV2 model was chosen as it was pretrained with more than a million images from the ImageNet database. \
